@@ -7,4 +7,4 @@ This is a minimal, native app written entirely in C++ and wxWidgets and built in
 To build this in Xcode, you will need to run `brew install wxwidgets`.
 
 ### Demo
-<img src="https://github.com/RuolinZheng08/motivate-app-for-mac/demo.gif" />
+<img src="https://github.com/RuolinZheng08/motivate-app-for-mac/blob/master/demo.gif" />
